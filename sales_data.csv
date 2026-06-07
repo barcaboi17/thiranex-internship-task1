@@ -1,0 +1,34 @@
+Order_ID,Customer_Name,Age,Gender,Product,Category,Quantity,Price,Total_Sales,City,Order_Date,Rating
+1001,Alice Johnson,28,Female,Laptop,Electronics,1,55000,55000,Mumbai,2024-01-05,4.5
+1002,Ravi Kumar,,Male,Phone,Electronics,2,15000,30000,Delhi,2024-01-07,4.0
+1003,Priya Sharma,35,Female,Headphones,Electronics,3,2000,6000,Bangalore,2024-01-10,3.8
+1004,Amit Singh,22,Male,T-Shirt,Clothing,5,500,2500,Chennai,2024-01-12,
+1005,Neha Gupta,29,Female,Jeans,Clothing,2,1200,2400,Mumbai,2024-01-15,4.2
+1006,Suresh Rao,45,,Mixer,Appliances,1,3500,3500,Hyderabad,2024-01-18,3.5
+1007,Kavya Nair,31,Female,Laptop,Electronics,1,55000,55000,Kochi,2024-01-20,5.0
+1008,Deepak Mehta,27,Male,Phone,Electronics,1,15000,15000,Delhi,2024-01-22,4.1
+1009,Sunita Patel,38,Female,Saree,Clothing,4,800,3200,Ahmedabad,2024-01-25,
+1010,Arun Iyer,33,Male,Laptop,Electronics,1,55000,55000,Bangalore,2024-01-28,4.7
+1011,Meena Das,,Female,Washing Machine,Appliances,1,22000,22000,Kolkata,2024-02-01,4.3
+1012,Vikram Rao,29,Male,Phone,Electronics,3,15000,45000,Mumbai,2024-02-03,3.9
+1013,Pooja Singh,24,Female,Headphones,Electronics,2,2000,4000,Delhi,2024-02-05,4.6
+1014,Rajesh Kumar,52,Male,TV,Electronics,1,35000,35000,Chennai,2024-02-08,4.8
+1015,Anjali Verma,26,Female,Jeans,Clothing,3,1200,3600,Jaipur,2024-02-10,3.7
+1016,Sanjay Mishra,41,Male,Microwave,Appliances,1,8000,8000,Lucknow,2024-02-12,4.0
+1017,Divya Nair,30,Female,Phone,Electronics,1,15000,15000,Kochi,2024-02-15,
+1018,Manoj Sharma,35,Male,T-Shirt,Clothing,10,500,5000,Pune,2024-02-18,3.5
+1019,Rekha Iyer,28,Female,Laptop,Electronics,1,999999,999999,Bangalore,2024-02-20,4.4
+1020,Arjun Pillai,23,Male,Headphones,Electronics,2,2000,4000,Chennai,2024-02-22,4.2
+1021,Sneha Joshi,31,Female,Mixer,Appliances,1,3500,3500,Pune,2024-02-25,3.8
+1022,Kiran Rao,45,Male,TV,Electronics,1,35000,35000,Hyderabad,2024-02-28,4.9
+1023,Tanvi Shah,27,Female,Saree,Clothing,2,800,1600,Ahmedabad,2024-03-02,4.1
+1024,Rohit Mehta,33,Male,Phone,Electronics,2,15000,30000,Delhi,2024-03-05,4.3
+1025,Lakshmi Devi,48,Female,Washing Machine,Appliances,1,22000,22000,Mumbai,2024-03-08,4.7
+1026,Ganesh Kumar,29,Male,Laptop,Electronics,1,55000,55000,Bangalore,2024-03-10,4.5
+1027,Parvati Nair,36,Female,Jeans,Clothing,4,1200,4800,Kochi,2024-03-12,3.9
+1028,Harish Reddy,31,Male,Microwave,Appliances,1,8000,8000,Hyderabad,2024-03-15,4.2
+1029,Swati Gupta,25,Female,Headphones,Electronics,3,2000,6000,Delhi,2024-03-18,4.6
+1030,Naveen Pillai,38,Male,T-Shirt,Clothing,6,500,3000,Chennai,2024-03-20,3.6
+1001,Alice Johnson,28,Female,Laptop,Electronics,1,55000,55000,Mumbai,2024-01-05,4.5
+1031,Bhavna Joshi,32,Female,Phone,Electronics,2,15000,30000,Pune,2024-03-22,4.0
+1032,Sunil Sharma,-5,Male,TV,Electronics,1,35000,35000,Delhi,2024-03-25,4.8
